@@ -1,0 +1,19 @@
+fastapi==0.110.1
+uvicorn[standard]==0.27.1
+redis==5.0.1
+motor==3.1.1
+pymongo==4.3.3
+pydantic>=2.6.1
+pydantic-settings==2.1.0
+celery==5.3.6
+python-dotenv==1.0.1
+aiohttp==3.9.0
+python-jose>=3.3.0
+httpx>=0.23.0
+bittensor>=6.0.0
+bittensor-wallet
+
+# Testing dependencies
+pytest>=7.0.0
+pytest-asyncio>=0.18.0
+pytest-cov>=3.0.0
